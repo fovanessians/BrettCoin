@@ -1,6 +1,6 @@
 # BrettCoin
-Ethereum based token
-Download Metamask and install as a plug-in with Chrome
+Ethereum based token/
+Download Metamask and install as a plug-in with Chrome/
 https://metamask.io/
 At the top of metamask wallet once it is downloaded: Click on pulldown box and select Rinkeby Test Network
 Copy address of Account1 or whatever your account name is at the top, should start with 0x5....numerical and character string. It will copy to clipboard automatically
